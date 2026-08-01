@@ -6,7 +6,7 @@
 
 **Independent Technology Studio**
 
-AI • Software Engineering • Automation • Developer Tools
+AI • Fullstack • Data • Cyber Security • Automation
 
 </div>
 
@@ -14,13 +14,13 @@ AI • Software Engineering • Automation • Developer Tools
 
 ## 🧭 About StudioNomad
 
-StudioNomad is an independent technology studio focused on building intelligent software, AI-powered tools, automation systems, and experimental digital products.
+StudioNomad is an independent technology studio focused on building software, intelligent systems, data-driven solutions, secure applications, automation systems, and experimental digital products.
 
-We explore the intersection of **Artificial Intelligence, Software Engineering, Automation, and Developer Experience**.
+We explore the intersection of **Software Engineering, Artificial Intelligence, Data, Cyber Security, Automation, and Developer Experience**.
 
 Our goal is simple:
 
-> **Build technology that makes complex work simpler, smarter, and more capable.**
+> **Build technology that makes complex work simpler, smarter, more secure, and more capable.**
 
 ---
 
@@ -28,12 +28,14 @@ Our goal is simple:
 
 | Area | Focus |
 |---|---|
-| 🤖 **Artificial Intelligence** | AI-powered applications and intelligent systems |
-| 🧠 **Multi-Agent Systems** | Agents that reason, plan, coordinate, and execute |
-| 🛠️ **Developer Tools** | Tools that improve software development workflows |
-| ⚙️ **Automation** | Systems that reduce repetitive and complex work |
-| 🐍 **Backend Engineering** | Modular, scalable, and maintainable software |
-| 🔬 **Experimental Technology** | Exploring ideas at the edge of emerging technology |
+| 🌐 **Fullstack Development** | End-to-end web applications, frontend, backend, APIs, and system integration |
+| 🎨 **Frontend Engineering** | Modern interfaces, responsive web applications, UI systems, and user experiences |
+| ⚙️ **Backend Engineering** | APIs, business logic, databases, distributed systems, and scalable backend architecture |
+| 📊 **Data Analytics** | Data processing, visualization, reporting, dashboards, and data-driven insights |
+| 🧠 **Data Science & AI** | Machine learning, statistical analysis, predictive models, and intelligent systems |
+| 🛡️ **Cyber Security** | Application security, infrastructure security, secure development, and security research |
+| 🤖 **Artificial Intelligence** | AI-powered applications, LLMs, intelligent agents, and automation |
+| ⚡ **Automation & Developer Tools** | Developer tooling, workflow automation, and systems that improve productivity |
 
 ---
 
