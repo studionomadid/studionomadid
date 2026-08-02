@@ -1,62 +1,47 @@
 <div align="center">
 
-# StudioNomad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=220&section=header&text=StudioNomad&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Technology%20%C3%97%20Creativity%20%C3%97%20Intelligence&descAlignY=62&descSize=18" width="100%" alt="StudioNomad Header"/>
 
-### Build. Automate. Explore.
+<br/>
 
-**Independent Technology Studio**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Build.+Analyze.+Secure.+Create.+Automate.;Fullstack+Developer+%7C+AI+Builder;Frontend+%7C+Backend+%7C+Data+Analyst;Data+Scientist+%7C+Cyber+Security;Adobe+Illustrator+%7C+Creative+Technology" alt="StudioNomad Typing Animation"/>
 
-AI • Fullstack • Data • Cyber Security • Design • Automation
+<br/><br/>
+
+**AI • Fullstack • Data • Cyber Security • Design • Automation**
+
+<br/>
+
+🇮🇩 **Building from Indonesia**
 
 </div>
 
 ---
 
-## 🧭 About StudioNomad
+<div align="center">
 
-StudioNomad is an independent technology studio focused on building software, intelligent systems, data-driven solutions, secure applications, automation systems, creative digital products, and experimental technology.
+### `Technology meets Creativity.`
 
-We explore the intersection of **Software Engineering, Artificial Intelligence, Data, Cyber Security, Design, Automation, and Developer Experience**.
+**Build systems. Analyze data. Secure technology. Create experiences.**
 
-Our goal is simple:
-
-> **Build technology that makes complex work simpler, smarter, more secure, and more creative.**
+</div>
 
 ---
 
-## 🚀 What We Build
+## 👋 About StudioNomad
 
-| Area | Focus |
-|---|---|
-| 🌐 **Fullstack Development** | End-to-end web applications, frontend, backend, APIs, databases, and system integration |
-| 🎨 **Frontend Engineering** | Modern interfaces, responsive applications, UI systems, and user experiences |
-| ⚙️ **Backend Engineering** | APIs, business logic, databases, distributed systems, and scalable backend architecture |
-| 📊 **Data Analytics** | Data processing, visualization, reporting, dashboards, and data-driven insights |
-| 🧠 **Data Science & AI** | Machine learning, statistical analysis, predictive models, and intelligent systems |
-| 🛡️ **Cyber Security** | Application security, infrastructure security, secure development, and security research |
-| 🤖 **Artificial Intelligence** | AI-powered applications, LLMs, intelligent agents, and automation |
-| ⚡ **Automation & Developer Tools** | Developer tooling, workflow automation, and systems that improve productivity |
-| 🖌️ **Illustration & Graphic Design** | Digital illustration, visual design, branding, and creative assets |
-
----
-
-## 🧠 Current Focus
-
-### Nomad Workspace AI
-
-We are currently building **Nomad Workspace AI**, a modular foundation for intelligent AI-powered development workflows.
-
-The project explores how AI agents can:
+**StudioNomad** is an independent technology studio exploring the intersection of:
 
 ```text
-Understand
-   ↓
-Reason
-   ↓
-Plan
-   ↓
-Orchestrate
-   ↓
-Execute
-   ↓
-Learn & Improve
+Software Engineering
+        ×
+Artificial Intelligence
+        ×
+Data
+        ×
+Cyber Security
+        ×
+Digital Design
+        ×
+Automation
+/
